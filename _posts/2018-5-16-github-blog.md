@@ -12,3 +12,5 @@ Markdown 형식으로 포스트가 가능하고 설치도 Github 계정만 있�
 ** 소제목 강조(bold)
 ```java
 ```
+
+[Markdown Syntax](https://daringfireball.net/projects/markdown/syntax)
